@@ -1,0 +1,10 @@
+node_modules/
+cache/
+out/
+artifacts/
+junk/
+dist/
+.vscode/
+
+*.tgz
+.env
