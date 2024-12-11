@@ -125,7 +125,7 @@ _Note for C4 wardens: Anything included in this `Automated Findings / Publicly K
 | ERC721 used  by the protocol            | No                                                                                                |
 | ERC777 used by the protocol             | Yes/No                                                                                            |
 | ERC1155 used by the protocol            | No                                                                                                |
-| Chains the protocol will be deployed on | Ethereum, Arbitrum, Base, Optimism, Other                                                         |
+| Chains the protocol will be deployed on | Ethereum, Arbitrum, Base, Optimism, Scroll, Other                                                         |
 
 ### External integrations (e.g., Uniswap) behavior in scope:
 
